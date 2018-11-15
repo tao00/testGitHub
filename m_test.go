@@ -1,11 +1,15 @@
 package main
 
-import "testing"
-import "fmt"
+import (
+	"testing"
+)
 
 func TestAbc(t *testing.T) {
 
-	fmt.Println("fmt output")
-	fmt.Print("abc")
+	// fmt.Println("fmt output")
+	// fmt.Print("abc")
 
+	// studyone()
+	// studytwo()
+	studythree()
 }
